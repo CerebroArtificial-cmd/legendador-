@@ -1,0 +1,1885 @@
+1
+00:00:00,000 --> 00:00:18,000
+CURSO LIVRE DE HUMANIDADES
+
+2
+00:00:18,000 --> 00:00:21,000
+Módulo 1 Filosofia
+
+3
+00:00:31,000 --> 00:00:34,000
+O empirismo e o ceticismo
+
+4
+00:00:36,000 --> 00:00:41,000
+O ceticismo empírico dos gregos, uma lição sempre atual.
+
+5
+00:00:48,000 --> 00:00:51,000
+Com Oswaldo Porchat Pereira
+
+6
+00:01:00,000 --> 00:01:13,000
+Para mim é uma coisa agradável ver que pessoas que não trabalham na área de filosofia
+
+7
+00:01:13,000 --> 00:01:19,000
+vêm aqui para ouvir professores de filosofia e filósofos falarem.
+
+8
+00:01:20,000 --> 00:01:23,000
+Isso é importante e isso é bom.
+
+9
+00:01:23,000 --> 00:01:27,000
+O meu tema é ceticismo e empirismo.
+
+10
+00:01:29,000 --> 00:01:34,000
+Talvez valha a pena começar dizendo alguma coisa sobre o sentido desses termos.
+
+11
+00:01:34,000 --> 00:01:43,000
+E como todos os ismos em filosofia, realismo, idealismo, naturalismo, empirismo, ceticismo,
+
+12
+00:01:43,000 --> 00:01:49,000
+todos esses termos se usam em muitos sentidos e é muito difícil defini-los.
+
+13
+00:01:51,000 --> 00:01:54,000
+Tomemos o termo empirismo em particular.
+
+14
+00:01:54,000 --> 00:02:02,000
+Os dicionários de filosofia registram o caráter vago, até confuso, em que o termo é usado.
+
+15
+00:02:03,000 --> 00:02:09,000
+Os filósofos que se disseram empiristas têm algo em comum nas suas filosofias,
+
+16
+00:02:10,000 --> 00:02:12,000
+mas apenas algo em comum.
+
+17
+00:02:13,000 --> 00:02:20,000
+E os não empiristas que falam do empirismo usam o termo também em sentidos diversos,
+
+18
+00:02:21,000 --> 00:02:24,000
+nem sempre redutíveis a um denominador comum.
+
+19
+00:02:25,000 --> 00:02:35,000
+Como fio condutor, eu vou usar a expressão para designar qualquer doutrina filosófica
+
+20
+00:02:35,000 --> 00:02:40,000
+ou teoria do conhecimento, segundo a qual todo conhecimento humano,
+
+21
+00:02:40,000 --> 00:02:45,000
+direta ou indiretamente, vem da experiência.
+
+22
+00:02:45,000 --> 00:02:51,000
+A literatura filosófica é costume opor empirismo a racionalismo,
+
+23
+00:02:52,000 --> 00:02:54,000
+num sentido também um pouco vago.
+
+24
+00:02:55,000 --> 00:03:01,000
+Eu vou usar a expressão racionalismo a propósito de toda a teoria filosófica
+
+25
+00:03:01,000 --> 00:03:06,000
+que privilegia a razão, dentro das outras faculdades humanas,
+
+26
+00:03:07,000 --> 00:03:11,000
+e que vê na razão o fundamento de todo conhecimento possível.
+
+27
+00:03:11,000 --> 00:03:16,000
+De um lado, o conhecimento sendo remetido pelos empiristas, sempre a experiência.
+
+28
+00:03:17,000 --> 00:03:23,000
+De outro lado, para os racionalistas, apontando-se para uma razão
+
+29
+00:03:24,000 --> 00:03:31,000
+que, independentemente da experiência, seria o fundamento de todo conhecimento possível.
+
+30
+00:03:32,000 --> 00:03:36,000
+Na época clássica da filosofia, nos primeiros séculos da época,
+
+31
+00:03:36,000 --> 00:03:42,000
+houve uma oposição entre racionalismo e empirismo,
+
+32
+00:03:42,000 --> 00:03:47,000
+que é longamente comentada e discutida nos livros de história da filosofia.
+
+33
+00:03:47,000 --> 00:03:52,000
+Quando a palavra ceticismo também se usa em muitos sentidos.
+
+34
+00:03:53,000 --> 00:03:59,000
+Hoje, quando eu falar de ceticismo, estarei referindo-me ao ceticismo grego.
+
+35
+00:04:00,000 --> 00:04:04,000
+Que é muito diferente do que na época moderna se chamou de ceticismo.
+
+36
+00:04:14,000 --> 00:04:16,000
+Há certamente alguma coisa em comum.
+
+37
+00:04:17,000 --> 00:04:19,000
+Mas a inspiração é completamente diferente.
+
+38
+00:04:20,000 --> 00:04:23,000
+Os resultados são completamente diferentes.
+
+39
+00:04:23,000 --> 00:04:26,000
+Além do fato de que, na linguagem contemporânea,
+
+40
+00:04:27,000 --> 00:04:30,000
+a palavra ceticismo se usa com muita frequência
+
+41
+00:04:31,000 --> 00:04:37,000
+para designar vagamente uma espécie de atitude negativista em filosofia.
+
+42
+00:04:38,000 --> 00:04:43,000
+Chama-se de cético aquele que diz que nada é possível conhecer,
+
+43
+00:04:43,000 --> 00:04:45,000
+que tem dúvidas a respeito de qualquer coisa,
+
+44
+00:04:45,000 --> 00:04:47,000
+mesmo que não tenha conhecido nada.
+
+45
+00:04:48,000 --> 00:04:52,000
+Diz que nada é possível conhecer, que tem dúvidas a respeito de qualquer coisa,
+
+46
+00:04:52,000 --> 00:04:55,000
+mesmo dos fatos banais da experiência cotidiana.
+
+47
+00:04:58,000 --> 00:05:02,000
+A palavra é usada para designar uma espécie de adversário fictício.
+
+48
+00:05:03,000 --> 00:05:06,000
+Uma vez que aquilo que se chama frequentemente de ceticismo,
+
+49
+00:05:07,000 --> 00:05:08,000
+na linguagem contemporânea,
+
+50
+00:05:09,000 --> 00:05:12,000
+não corresponde a nada na história da filosofia.
+
+51
+00:05:13,000 --> 00:05:18,000
+Filósofos gregos se chamaram a si mesmos de skeptikói, céticos.
+
+52
+00:05:19,000 --> 00:05:24,000
+Mas a palavra queria, naquele tempo, dizer aqueles que examinam.
+
+53
+00:05:25,000 --> 00:05:31,000
+Os skeptikói se propunham como sendo os filósofos que estudam, que veem, que examinam.
+
+54
+00:05:32,000 --> 00:05:35,000
+Mas por que alguns filósofos resolveram chamar-se assim?
+
+55
+00:05:38,000 --> 00:05:40,000
+Eles também se chamavam de pirrônicos.
+
+56
+00:05:40,000 --> 00:05:42,000
+Só para explicar o termo,
+
+57
+00:05:43,000 --> 00:05:49,000
+Pirro, contemporâneo de Alexandre, que acompanhou Alexandre em sua viagem à Índia,
+
+58
+00:05:49,000 --> 00:05:51,000
+é uma espécie de figura lendária,
+
+59
+00:05:52,000 --> 00:05:58,000
+cujo nome foi invocado, algo como um patrono da doutrina dos céticos.
+
+60
+00:05:59,000 --> 00:06:02,000
+Eles se chamavam a si mesmos de pirrônicos.
+
+61
+00:06:03,000 --> 00:06:08,000
+No que consistia fundamentalmente, para resumir ao mínimo,
+
+62
+00:06:10,000 --> 00:06:13,000
+a doutrina dos céticos pirrônicos?
+
+63
+00:06:14,000 --> 00:06:21,000
+Eles criticavam a pretensão dos sistemas filosóficos e das ciências do tempo
+
+64
+00:06:22,000 --> 00:06:27,000
+de serem capazes de apreender a natureza mesma das coisas.
+
+65
+00:06:27,000 --> 00:06:30,000
+Num Platão, num Aristóteles, no sistema estoico,
+
+66
+00:06:31,000 --> 00:06:35,000
+a filosofia se dizia capaz de descobrir a verdade.
+
+67
+00:06:36,000 --> 00:06:39,000
+Escrevâmos-la com letra maiúscula, a realidade.
+
+68
+00:06:41,000 --> 00:06:43,000
+As coisas como elas são em si mesmas.
+
+69
+00:06:45,000 --> 00:06:49,000
+O saber, tanto da filosofia como da ciência,
+
+70
+00:06:50,000 --> 00:06:53,000
+é um saber que se desenvolve em si mesmo.
+
+71
+00:06:53,000 --> 00:06:55,000
+Tanto da filosofia como da ciência.
+
+72
+00:06:56,000 --> 00:07:04,000
+É um saber que se dizia capaz de atingir essa natureza profunda do real.
+
+73
+00:07:07,000 --> 00:07:17,000
+Os céticos foram aqueles filósofos que criticaram essa pretensão da filosofia dogmática.
+
+74
+00:07:18,000 --> 00:07:25,000
+Eles entenderam que não temos como dizer a nenhum momento
+
+75
+00:07:26,000 --> 00:07:29,000
+que conhecemos as coisas como elas em si mesmas são.
+
+76
+00:07:32,000 --> 00:07:40,000
+Eles, por exemplo, chamaram a atenção sobre a proliferação infinita, por assim dizer,
+
+77
+00:07:41,000 --> 00:07:46,000
+das várias doutrinas filosóficas, todas elas conflitando umas com as outras,
+
+78
+00:07:47,000 --> 00:07:50,000
+dizendo-se todas capazes de apreender a verdade
+
+79
+00:07:51,000 --> 00:07:56,000
+e, obviamente, desqualificando como falsas as doutrinas adversárias.
+
+80
+00:07:58,000 --> 00:08:03,000
+Eles insistiram nesse conflito das filosofias indecidível,
+
+81
+00:08:04,000 --> 00:08:08,000
+porque qualquer critério para decidir desse conflito
+
+82
+00:08:09,000 --> 00:08:12,000
+era sempre proposto no interior de uma filosofia particular
+
+83
+00:08:12,000 --> 00:08:17,000
+e não havia critério aceito pela comunidade filosófica
+
+84
+00:08:18,000 --> 00:08:21,000
+para decidir do conflito entre as filosofias.
+
+85
+00:08:23,000 --> 00:08:27,000
+Eles também chamaram a atenção sobre o caráter relativo
+
+86
+00:08:28,000 --> 00:08:31,000
+de tudo quanto pensamos ou dizemos ou experimenciamos.
+
+87
+00:08:32,000 --> 00:08:34,000
+Diziam esses céticos gregos.
+
+88
+00:08:35,000 --> 00:08:39,000
+Nós podemos dizer como as coisas aparecem a mim, a você, a cada um de nós.
+
+89
+00:08:39,000 --> 00:08:44,000
+Podemos dizer o fenômeno, a palavra fenômeno, eu queria dizer aquilo que aparece.
+
+90
+00:08:45,000 --> 00:08:51,000
+Podemos dizer como as coisas me aparecem, nesta circunstância, nesta condição.
+
+91
+00:08:52,000 --> 00:08:57,000
+Eventualmente, como aparecem em comum a pessoas em tais e tais condições,
+
+92
+00:08:58,000 --> 00:09:02,000
+pessoas em tais ou quais países, com tais ou quais pontos de vista comuns,
+
+93
+00:09:03,000 --> 00:09:06,000
+pontos de vista, entretanto, que variam de uma comunidade para outra,
+
+94
+00:09:06,000 --> 00:09:12,000
+não só de uma comunidade étnica para outra, mas dentro de uma mesma sociedade,
+
+95
+00:09:13,000 --> 00:09:17,000
+conforme os diferentes grupos em que essa sociedade se divide.
+
+96
+00:09:18,000 --> 00:09:21,000
+Podemos sempre dizer o que cada um em particular pensa.
+
+97
+00:09:22,000 --> 00:09:25,000
+Podemos sempre dizer a opinião de cada um e descrevê-la.
+
+98
+00:09:26,000 --> 00:09:31,000
+Podemos sempre dizer como as próprias coisas físicas me aparecem em tais circunstâncias.
+
+99
+00:09:31,000 --> 00:09:38,000
+Se estou em tal ou qual disposição de saúde, é tal ou qual a luminosidade ambiente.
+
+100
+00:09:39,000 --> 00:09:42,000
+Se estou em tal ou qual disposição física ou mental.
+
+101
+00:09:43,000 --> 00:09:54,000
+Mas, em meio a essa disparidade indefinida, não é possível.
+
+102
+00:09:54,000 --> 00:10:03,000
+Não se vê como escolher entre essas diferentes aparências para dizer esta nos dá a realidade mesma das coisas.
+
+103
+00:10:04,000 --> 00:10:09,000
+Podemos descrever a presença plural dessas aparências,
+
+104
+00:10:10,000 --> 00:10:18,000
+mas não podemos decidir entre elas no que concerne ao tema da verdade mesma ou da realidade mesma.
+
+105
+00:10:19,000 --> 00:10:28,000
+Quando os filósofos pretendem que são capazes de conhecer algo, os céticos os chamavam de dogmáticos.
+
+106
+00:10:29,000 --> 00:10:34,000
+A palavra dogmático não se usa, então, no sentido atualmente corriqueiro da palavra,
+
+107
+00:10:35,000 --> 00:10:39,000
+em que o dogmático é aquele que afirma, peremptoriamente, alguma coisa,
+
+108
+00:10:40,000 --> 00:10:45,000
+sem justificá-la, sem dar argumentos, de uma maneira algo turroda.
+
+109
+00:10:45,000 --> 00:10:56,000
+Na linguagem cética, dogmático é o filósofo que, mesmo fornecendo argumentos racionais em defesa das suas teses,
+
+110
+00:10:57,000 --> 00:11:00,000
+ele entende que a sua doutrina capturou a verdade.
+
+111
+00:11:01,000 --> 00:11:06,000
+Ele usa argumentos, mas os seus argumentos, os outros filósofos que propõem teorias diferentes não aceitam,
+
+112
+00:11:07,000 --> 00:11:10,000
+propondo, por sua vez, outros argumentos que aquele primeiro não aceita.
+
+113
+00:11:10,000 --> 00:11:18,000
+As teses dessas filosofias especulativas, que se pretendem capazes de alcançar a verdade e a realidade,
+
+114
+00:11:19,000 --> 00:11:25,000
+os céticos as chamavam de dogmas, dogmatá, e os filósofos de dogmáticos.
+
+115
+00:11:28,000 --> 00:11:34,000
+É preciso dizer que a cautela antidogmática dos céticos os levava também a dizer,
+
+116
+00:11:34,000 --> 00:11:43,000
+isso é um ponto muito importante, que se é certo que as filosofias especulativas, dogmáticas,
+
+117
+00:11:44,000 --> 00:11:55,000
+fracassam ao tentar convencermos, em geral, de que tem a verdade, se nós somos suficientemente críticos para discuti-las,
+
+118
+00:11:56,000 --> 00:12:01,000
+entretanto, também não é possível mostrar a verdade.
+
+119
+00:12:01,000 --> 00:12:07,000
+Entretanto, também não é possível mostrar demonstrativamente a falsidade delas.
+
+120
+00:12:08,000 --> 00:12:14,000
+O cético jamais se pretendeu capaz de demonstrar que a filosofia especulativa não pode levar à verdade.
+
+121
+00:12:15,000 --> 00:12:22,000
+Ele jamais se pretendeu capaz de provar a falsidade desta ou daquela doutrina. Por quê?
+
+122
+00:12:22,000 --> 00:12:35,000
+Porque, para ele, afirmar peripetoriamente que uma doutrina é falsa, afirmar peripetoriamente que a metafísica, vamos dizer assim, não tem sentido,
+
+123
+00:12:36,000 --> 00:12:43,000
+afirmar de maneira decidida que as filosofias não encontram a verdade, também é uma tese dogmática.
+
+124
+00:12:44,000 --> 00:12:51,000
+E, portanto, os céticos propunham o que eles chamavam de epoqué, suspensão de juízo.
+
+125
+00:12:52,000 --> 00:13:06,000
+O cético não é aquele que afirma a impossibilidade da metafísica, não é aquele que afirma ou que pretende mostrar que a filosofia especulativa não pode chegar à verdade.
+
+126
+00:13:07,000 --> 00:13:18,000
+É aquele apenas que humildemente confessa que não se conseguiu persuadir, nem vê como ser persuadido pelas doutrinas das filosofias dogmáticas, especulativas,
+
+127
+00:13:19,000 --> 00:13:31,000
+mas também reconhece que não tem como mostrar a falsidade ou a impossibilidade de elas alcançarem os seus objetivos.
+
+128
+00:13:32,000 --> 00:13:42,000
+Ele não aceita um dogmatismo positivo, mas também não afirma um dogmatismo negativo, ele simplesmente suspende o juízo.
+
+129
+00:13:42,000 --> 00:14:00,000
+Ora, se entendermos por empirismo uma doutrina que afirma enfaticamente que todo conhecimento necessariamente vem da experiência,
+
+130
+00:14:01,000 --> 00:14:13,000
+que a razão por si mesma não é capaz de encontrar verdades, se entendermos por empirismo, como frequentemente se entende, muitas vezes,
+
+131
+00:14:14,000 --> 00:14:27,000
+uma doutrina que recusa a filosofia especulativa e que afirma a necessidade absoluta e demonstrável de todo conhecimento basear-se apenas na experiência,
+
+132
+00:14:27,000 --> 00:14:37,000
+essa doutrina parecerá uma doutrina também dogmática, tanto quanto a doutrina racionalista ou as doutrinas racionalistas que ela combate.
+
+133
+00:14:38,000 --> 00:14:51,000
+E, portanto, em vista do que eu acabo de simplificadamente dizer sobre os céticos, pareceria que eles também não podem defender uma doutrina empirista.
+
+134
+00:14:52,000 --> 00:15:00,000
+Eles não podem ser racionalistas, mas também não podem ser empiristas, eles têm que suspender o juízo sobre uma e outra posição.
+
+135
+00:15:02,000 --> 00:15:08,000
+Entretanto, as coisas não são tão simples assim, no que se refere ao ceticismo grego.
+
+136
+00:15:08,000 --> 00:15:25,000
+A oposição entre empirismo e racionalismo apareceu não no mundo moderno, mas no mundo antigo, ela é uma oposição que caracteriza a história da medicina grega.
+
+137
+00:15:25,000 --> 00:15:38,000
+Duas grandes escolas médicas se opuseram desde o século terceiro antes de Cristo até o século terceiro ou quarto depois de Cristo, quando a barbárie chega.
+
+138
+00:15:40,000 --> 00:15:48,000
+E essas duas escolas se chamavam respectivamente de escola racionalista e escola empirista.
+
+139
+00:15:49,000 --> 00:15:59,000
+Os médicos de uma escola se diziam logikoi, partidários do logos, da razão, os outros se diziam empirikoi, empíricos.
+
+140
+00:16:00,000 --> 00:16:17,000
+Os médicos racionalistas diziam que a reflexão racional é capaz de descobrir, pelo uso da reflexão, causas e naturezas ocultas responsáveis pelo surgimento das enfermidades
+
+141
+00:16:17,000 --> 00:16:30,000
+e conhecimento, pela razão, dessas causas e naturezas nos proporciona sugestões importantes para o tratamento médico.
+
+142
+00:16:32,000 --> 00:16:37,000
+Elas se confirmam ou não na experiência médica.
+
+143
+00:16:38,000 --> 00:16:52,000
+Os empiristas médicos criticavam as teses racionalistas dos médicos racionalistas, dizendo ao contrário, que a medicina tinha que basear-se exclusivamente na experiência.
+
+144
+00:16:53,000 --> 00:17:06,000
+Que era a partir da experiência que, acompanhando-se os fenômenos nosológicos, se podia eventualmente encontrar um caminho para a cura da doença.
+
+145
+00:17:08,000 --> 00:17:22,000
+Recusando todo e qualquer papel da razão, os mais radicais, e criticando a proliferação de doutrinas médicas racionalistas.
+
+146
+00:17:23,000 --> 00:17:31,000
+No século I, antes de Cristo, surgiu uma terceira escola, a escola dos metódicos, que criticava os racionalistas médicos,
+
+147
+00:17:32,000 --> 00:17:40,000
+por tentarem, pelo uso simples da reflexão, descobrir verdades e causas ocultas a respeito das doenças e do tratamento médico.
+
+148
+00:17:41,000 --> 00:17:50,000
+Mas criticavam os empiristas também, por acharem que esses empiristas eram dogmáticos na sua condenação do racionalismo.
+
+149
+00:17:50,000 --> 00:17:53,000
+Eles queriam negar todo e qualquer papel para a razão.
+
+150
+00:17:54,000 --> 00:18:03,000
+Por que esses fatos históricos sobre a medicina grega foi lá que se desenhou pela primeira vez a oposição entre racionalistas e empiristas?
+
+151
+00:18:04,000 --> 00:18:11,000
+Por que é importante mencioná-la nesse nosso exame do ceticismo?
+
+152
+00:18:12,000 --> 00:18:28,000
+Porque os principais representantes do movimento cético pirrônico do segundo século depois de Cristo, eram também os principais representantes do empirismo médico.
+
+153
+00:18:28,000 --> 00:18:39,000
+Sexto Empírico, filósofo cético dos mais importantes do movimento, que nos deixou várias obras.
+
+154
+00:18:40,000 --> 00:18:52,000
+Nós temos onze livros dele contra a filosofia dogmática, nós temos uma introdução geral ao ceticismo chamado hipotiposes, quer dizer, esboços pirronianos.
+
+155
+00:18:53,000 --> 00:18:58,000
+Sexto Empírico, além de se chamar empírico, em pericoses.
+
+156
+00:18:59,000 --> 00:19:07,000
+Ele diz num certo texto de um livro seu, ter escrito comentários empiristas, mas mais do que isso.
+
+157
+00:19:08,000 --> 00:19:17,000
+A literatura médica da época reconhece a sua extraordinária importância como médico para a escola empirista de medicina.
+
+158
+00:19:18,000 --> 00:19:28,000
+Escritos posteriores mostram que o pirronismo, o ceticismo, teve grande influência no desenvolvimento da escola metódica.
+
+159
+00:19:29,000 --> 00:19:38,000
+O próprio Sexto Empírico afirma a afinidade entre ceticismo e a escola metódica de medicina.
+
+160
+00:19:39,000 --> 00:19:53,000
+Esses dados históricos nos fazem, necessariamente, então perguntar como é possível essa associação entre ceticismo e medicina empirista e metódica.
+
+161
+00:19:54,000 --> 00:20:01,000
+Tanto mais que, num certo momento, os chefes do empirismo médico eram os principais representantes da filosofia cética.
+
+162
+00:20:01,000 --> 00:20:09,000
+Sexto Empírico era médico e outros grandes céticos da época, todos eram médicos e escreviam sobre medicina também.
+
+163
+00:20:10,000 --> 00:20:18,000
+Há um texto de Sexto Empírico que eu vou mencionar e que é particularmente importante.
+
+164
+00:20:19,000 --> 00:20:24,000
+É um texto das Hipotipósias Pirrônicas, livro primeiro, onde Sexto Empírico diz
+
+165
+00:20:25,000 --> 00:20:30,000
+Alguns pretendem que ceticismo e empirismo é a mesma coisa. Não. Não é.
+
+166
+00:20:31,000 --> 00:20:39,000
+Porque os empiristas afirmam, dogmaticamente, que as causas ocultas, as razões, não podem ser apreendidas.
+
+167
+00:20:40,000 --> 00:20:43,000
+Esse dogmatismo negativista ou negativo não é próprio aos céticos.
+
+168
+00:20:44,000 --> 00:20:50,000
+Os céticos têm afinidade mais com a doutrina dos metódicos. Por quê? Diz Sexto Empírico.
+
+169
+00:20:51,000 --> 00:20:59,000
+Em primeiro lugar, tanto os céticos como a escola metódica seguem os fenômenos, seguem o que aparece.
+
+170
+00:21:00,000 --> 00:21:05,000
+Baseiam-se na experiência que se nos dá na vida cotidiana.
+
+171
+00:21:06,000 --> 00:21:16,000
+Ambos, ceticismo e metodismo médico, buscam o útil. Ambos se baseiam e seguem a vida comum.
+
+172
+00:21:16,000 --> 00:21:24,000
+E ele lembra, seguir a vida comum é seguir a orientação da natureza, que nos faz dotados de sensibilidade e de razão.
+
+173
+00:21:25,000 --> 00:21:35,000
+É seguir a necessidade dos impulsos, instintos e afecções, que nos levam, natural e espontaneamente, a buscar satisfação deles.
+
+174
+00:21:36,000 --> 00:21:40,000
+A fome leva o ser vivo a buscar o alimento.
+
+175
+00:21:40,000 --> 00:21:45,000
+A medicina metódica insiste nessa necessidade natural das afecções.
+
+176
+00:21:48,000 --> 00:21:54,000
+A vida comum também diz respeito às tradições de leis e costumes.
+
+177
+00:21:54,000 --> 00:22:15,000
+O cético vive em uma sociedade modelada por leis e instituições e, como qualquer ser humano, necessariamente tende a adaptar-se a uma situação moldada por tais fatores.
+
+178
+00:22:16,000 --> 00:22:22,000
+Além disso, o cético e a vida comum adotam as tecnai.
+
+179
+00:22:22,000 --> 00:22:29,000
+A palavra tecne, em grego, significa arte e disciplina, por oposição à palavra episteme, que significa ciência.
+
+180
+00:22:30,000 --> 00:22:48,000
+Episteme eram a matemática, geometria, astronomia, astronomia matemática, a física, a música, a gramática, a teoria do conhecimento chamada de lógica.
+
+181
+00:22:48,000 --> 00:23:01,000
+A teoria do conhecimento chamada de lógica, então, as artes eram a astronomia empírica, a medicina, a arte da navegação, a arte da agricultura.
+
+182
+00:23:02,000 --> 00:23:07,000
+De um lado, as tecnai, de outro lado, as ciências ou episteme.
+
+183
+00:23:08,000 --> 00:23:14,000
+O cético e a escola metódica, obviamente, seguem as tecnai.
+
+184
+00:23:15,000 --> 00:23:20,000
+Ora, o comentário desse texto seria particularmente importante.
+
+185
+00:23:21,000 --> 00:23:27,000
+Um comentário desse texto, se estempídico, levaria horas, talvez, para ser desenvolvido.
+
+186
+00:23:28,000 --> 00:23:32,000
+Ele é particularmente importante e eu já vou dizer de início o porquê.
+
+187
+00:23:33,000 --> 00:23:45,000
+Porque, se vocês prestaram atenção, o filósofo cético mais importante da antiguidade, diz nesse texto, há uma afinidade entre ceticismo e escola metódica de medicina.
+
+188
+00:23:46,000 --> 00:23:53,000
+Segundo, o cético segue a vida comum, ele reconhece os impulsos e afecções naturais.
+
+189
+00:23:54,000 --> 00:24:06,000
+Ele se guia pela natureza, pela razão e sensibilidade, ele se integra na vida social, ele adota as tecnai.
+
+190
+00:24:07,000 --> 00:24:14,000
+Em outras palavras, a condenação da filosofia especulativa e condenação não dogmática, como vimos.
+
+191
+00:24:14,000 --> 00:24:34,000
+A crítica das filosofias que nos querem oferecer a verdade e a realidade, se acompanha da apologia da vida comum, da apologia das tecnai ou artes,
+
+192
+00:24:35,000 --> 00:24:50,000
+do reconhecimento da natureza, do reconhecimento do papel dos instintos e afecções e do reconhecimento, óbvio, de nossa capacidade sensível e inteligível.
+
+193
+00:24:51,000 --> 00:24:57,000
+Muitos e muitos são os textos de sexto empírico que se podem invocar para comentar esta passagem.
+
+194
+00:24:58,000 --> 00:25:11,000
+Mas reconheçamos pelo menos já uma coisa, essa figura de cético que assim se vai caracterizando, nada tem a ver com o que na linguagem contemporânea se chama de filósofo cético.
+
+195
+00:25:12,000 --> 00:25:21,000
+O filósofo cético grego é um crítico da razão especulativa, é um crítico do dogmatismo filosófico,
+
+196
+00:25:21,000 --> 00:25:40,000
+é um crítico da pretensão de se conhecer a verdade e a realidade das coisas, mas é um apologista da vida comum, das artes, do reconhecimento dos fenômenos naturais.
+
+197
+00:25:52,000 --> 00:26:00,000
+Reconhecer o que aparece, reconhecer que nós temos uma experiência do mundo, não é como recusá-la, diz o cético.
+
+198
+00:26:01,000 --> 00:26:03,000
+Ninguém discute sobre esse assunto.
+
+199
+00:26:06,000 --> 00:26:19,000
+Contrariando a noção moderna de cético, eu diria que um cético grego me dissesse, eu não sei se há uma mesa aqui, será que há uma mesa aqui?
+
+200
+00:26:20,000 --> 00:26:35,000
+O cético grego sextempídico médico diria que o indivíduo em questão provavelmente precisava de alguma, de recorrer a algum médico, pois alguma coisa estaria errada com ele.
+
+201
+00:26:36,000 --> 00:26:39,000
+Reconhecer a presença da mesa, por exemplo.
+
+202
+00:26:40,000 --> 00:26:46,000
+O cético diz que, como qualquer homem, nós experienciamos essa experiência.
+
+203
+00:26:47,000 --> 00:26:58,000
+Outra coisa é dizer, como a filosofia ou a ciência dogmática podem pretender, que esta mesa é uma realidade em si mesma que nós podemos conhecer na sua essência.
+
+204
+00:26:59,000 --> 00:27:03,000
+E ele perguntará o que é essência, o que é realidade em si mesmo, o que isso quer dizer.
+
+205
+00:27:04,000 --> 00:27:10,000
+E aí os filósofos dogmáticos têm muitas respostas a dar, entre eles não se pondo de acordo.
+
+206
+00:27:11,000 --> 00:27:20,000
+E o cético dirá, essas interpretações todas, eu não vejo como dar assentimento a elas.
+
+207
+00:27:21,000 --> 00:27:25,000
+Mas há uma experiência, nós temos uma experiência do mundo e da vida.
+
+208
+00:27:26,000 --> 00:27:31,000
+Essa experiência é irrecusável e é sobre ela que temos de trabalhar.
+
+209
+00:27:31,000 --> 00:27:35,000
+É a partir dela que temos que organizar o próprio cotidiano.
+
+210
+00:27:36,000 --> 00:27:43,000
+E não esperá-lo das filosofias dogmáticas, especulativas, nem das ciências dogmáticas.
+
+211
+00:27:44,000 --> 00:27:46,000
+Mas então o que?
+
+212
+00:27:47,000 --> 00:27:56,000
+Então, reconheçamos que nessa vida comum, e aqui eu vou simplificar brutalmente, não há outra maneira de fazer.
+
+213
+00:27:57,000 --> 00:28:05,000
+Nessa vida comum, nessa experiência do mundo, nós detectamos regularidades nos fenômenos.
+
+214
+00:28:06,000 --> 00:28:12,000
+Fenômenos, o que aparece, uma boa parte do que aparece, aparece em comum a muitos de nós.
+
+215
+00:28:13,000 --> 00:28:16,000
+Se temos experiências privadas, pessoais, particulares.
+
+216
+00:28:17,000 --> 00:28:21,000
+Todos nós concordamos que temos também uma experiência comum do mundo.
+
+217
+00:28:22,000 --> 00:28:28,000
+E nessa experiência comum do mundo nós detectamos também comportamentos regulares dos fenômenos.
+
+218
+00:28:29,000 --> 00:28:31,000
+O que fazem as tecnai?
+
+219
+00:28:32,000 --> 00:28:37,000
+O que faz a arte da navegação ou a medicina ou a astronomia empírica?
+
+220
+00:28:38,000 --> 00:28:47,000
+Ela observa, sistematiza, a partir da experiência passada faz predições de uma experiência futura.
+
+221
+00:28:48,000 --> 00:28:50,000
+Predições que podem ou não ocorrer.
+
+222
+00:28:51,000 --> 00:28:54,000
+Esse é o programa e a prática das tecnai.
+
+223
+00:28:57,000 --> 00:29:06,000
+Esse é o tipo de prática que o cético aceita, endossa, preconiza e de que ele faz apologia.
+
+224
+00:29:08,000 --> 00:29:16,000
+Em alguns textos de sexto empírico e num texto de um historiador do terceiro século d.C. chamado de Órgidos Aércio,
+
+225
+00:29:17,000 --> 00:29:20,000
+a palavra conhecimento ocorre.
+
+226
+00:29:22,000 --> 00:29:29,000
+Há textos de sexto empírico em que a palavra conhecimento é aplicada aos fenômenos, ao mundo do que aparece.
+
+227
+00:29:31,000 --> 00:29:34,000
+Eles têm conhecimento também do que se passa em si mesmo.
+
+228
+00:29:35,000 --> 00:29:41,000
+Eles têm conhecimento, por exemplo, de quem são pensantes e que estão pensando aqui, ali, tal e tal coisa.
+
+229
+00:29:43,000 --> 00:29:47,000
+Os céticos discutem, usam a noção de natureza.
+
+230
+00:29:47,000 --> 00:29:52,000
+Os dogmáticos também a usam, mas os dogmáticos têm teorias especulativas sobre a natureza.
+
+231
+00:29:53,000 --> 00:29:55,000
+O cético as critica.
+
+232
+00:29:56,000 --> 00:30:03,000
+Mas se a palavra natureza se usar de uma maneira menos pretenciosa,
+
+233
+00:30:04,000 --> 00:30:10,000
+se com isso quisermos apenas descrever o fato mesmo que os processos que nós experienciamos
+
+234
+00:30:11,000 --> 00:30:15,000
+parecem espontaneamente produzir-se numa certa ódio, numa certa regularidade,
+
+235
+00:30:16,000 --> 00:30:18,000
+bem, podemos falar em natureza.
+
+236
+00:30:19,000 --> 00:30:23,000
+Os dogmáticos têm uma teoria da causalidade, aliás, muitas teorias da causalidade.
+
+237
+00:30:24,000 --> 00:30:26,000
+E os céticos as criticam.
+
+238
+00:30:26,000 --> 00:30:46,000
+Mas se a palavra causa se empregar a respeito de certas sequências ordenadas de fatos,
+
+239
+00:30:47,000 --> 00:30:53,000
+por exemplo, um ferimento do coração é sempre um fenômeno.
+
+240
+00:30:53,000 --> 00:31:01,000
+No coração é sempre, invariavelmente, seguido da morte de quem assim é ferido.
+
+241
+00:31:02,000 --> 00:31:08,000
+E os céticos dizem, a medicina diz, que o ferimento foi a causa da morte.
+
+242
+00:31:09,000 --> 00:31:14,000
+Nesse sentido, podemos continuar a falar de causalidade?
+
+243
+00:31:15,000 --> 00:31:17,000
+O que não podemos é usar a palavra.
+
+244
+00:31:17,000 --> 00:31:20,000
+Não podemos porque vemos que há grandes obstáculos a isso,
+
+245
+00:31:21,000 --> 00:31:27,000
+no sentido das teorias especulativas da causalidade que os filósofos propuseram.
+
+246
+00:31:28,000 --> 00:31:34,000
+A filosofia dogmática falou em evidências, distinguiu entre o que é evidente e o que não é evidente.
+
+247
+00:31:35,000 --> 00:31:40,000
+Disseram que há coisas que se dão imediatamente ao nosso conhecimento.
+
+248
+00:31:41,000 --> 00:31:46,000
+Nós a conhecemos na sua realidade mesma, imediatamente, são as coisas evidentes.
+
+249
+00:31:47,000 --> 00:31:49,000
+Por exemplo, é evidente que agora é de noite.
+
+250
+00:31:50,000 --> 00:31:53,000
+O exemplo cestempírico é evidente que agora é de dia.
+
+251
+00:31:54,000 --> 00:31:57,000
+E os dogmáticos diziam que há também realidades ocultas,
+
+252
+00:31:58,000 --> 00:32:02,000
+que a partir da experiência das coisas evidentes, nós podemos vir a conhecer pelo uso da razão.
+
+253
+00:32:03,000 --> 00:32:08,000
+O cético põe em dúvida esse nosso conhecimento das coisas ocultas.
+
+254
+00:32:09,000 --> 00:32:14,000
+E a respeito das coisas evidentes, ele aceita usar o vocabulário da evidência.
+
+255
+00:32:14,000 --> 00:32:20,000
+Cestempírico, em muitas passagens, chama aquilo que aparece, o fenômeno, de evidente.
+
+256
+00:32:21,000 --> 00:32:24,000
+E ele diz que o cético, como a vida comum, se baseia na evidência.
+
+257
+00:32:25,000 --> 00:32:29,000
+Mas basear-se na evidência é basear-se naquilo que se dá
+
+258
+00:32:30,000 --> 00:32:33,000
+numa experiência reconhecida como comum por todos nós,
+
+259
+00:32:34,000 --> 00:32:44,000
+sem julgar a questão da realidade ou da verdade última daquilo que estamos experienciando.
+
+260
+00:32:45,000 --> 00:32:50,000
+É evidente que nós estamos aqui numa sala e que estamos discutindo de filosofia.
+
+261
+00:32:51,000 --> 00:32:53,000
+É evidente que agora é de noite.
+
+262
+00:32:54,000 --> 00:32:57,000
+Mas dizer que é evidente quer dizer apenas que isso é uma experiência comum
+
+263
+00:32:57,000 --> 00:33:03,000
+que nós estamos reconhecendo como tal e sobre a qual não nos parece saudável,
+
+264
+00:33:04,000 --> 00:33:06,000
+sobre a experiência enquanto tal, nenhuma dúvida.
+
+265
+00:33:07,000 --> 00:33:16,000
+Há uma concordância generalizada se as pessoas estão no bom uso das suas faculdades, diria Cestempírico.
+
+266
+00:33:28,000 --> 00:33:33,000
+O cético pode falar em causa, pode falar em conhecimento, pode falar em evidência,
+
+267
+00:33:34,000 --> 00:33:38,000
+até mesmo ter o Cestempírico que ele fala de realidade e irrealidade,
+
+268
+00:33:39,000 --> 00:33:46,000
+num sentido, vamos dizer assim, fenomênico, num sentido de registro dessa experiência irrecusável.
+
+269
+00:33:47,000 --> 00:33:52,000
+Essas mesmas palavras podem tornar-se palavrões dogmáticos.
+
+270
+00:33:52,000 --> 00:33:55,000
+A realidade, a verdade, o conhecimento, a causa.
+
+271
+00:33:56,000 --> 00:34:03,000
+O discurso que o cético utiliza, diz ele, é o discurso comum, é o discurso de todos os homens.
+
+272
+00:34:04,000 --> 00:34:12,000
+Assim como o cético entende a tecné, o conhecimento empírico, vamos dizer assim,
+
+273
+00:34:13,000 --> 00:34:17,000
+como um prolongamento dos padrões cognitivos do homem comum,
+
+274
+00:34:17,000 --> 00:34:24,000
+do homem comum, eu lembraria um filósofo empirista moderno como o Quine,
+
+275
+00:34:25,000 --> 00:34:34,000
+que diz que o que o cientista faz é apenas aperfeiçoar e aprimorar o comportamento cognitivo dos homens,
+
+276
+00:34:35,000 --> 00:34:37,000
+das pessoas ordinárias, das pessoas comuns.
+
+277
+00:34:38,000 --> 00:34:40,000
+Cestempírico diz também isso.
+
+278
+00:34:40,000 --> 00:34:47,000
+O que o homem da tecné faz é sistematizar e aperfeiçoar os padrões e comportamentos das pessoas comuns.
+
+279
+00:34:48,000 --> 00:34:55,000
+O conhecimento da tecné, vamos falar de conhecimento empírico, vamos falar de ciência empírica.
+
+280
+00:34:56,000 --> 00:35:02,000
+Cestempírico jamais usou o termo ciência empírica, mesmo conhecimento empírico, conhecimento ele usa relutantemente.
+
+281
+00:35:03,000 --> 00:35:09,000
+Mas acompanhando esse hábito cético de usar as palavras que os dogmáticos usam num sentido não dogmático,
+
+282
+00:35:10,000 --> 00:35:11,000
+vamos falar de ciência empírica.
+
+283
+00:35:12,000 --> 00:35:22,000
+Pois bem, a ciência empírica é um aperfeiçoamento do comportamento cognitivo do homem comum.
+
+284
+00:35:23,000 --> 00:35:27,000
+O discurso também será assim.
+
+285
+00:35:27,000 --> 00:35:33,000
+Ao invés de construir um discurso técnico, filosófico dogmático,
+
+286
+00:35:34,000 --> 00:35:43,000
+que pretensamente constrói pontes de acesso ao que está além do mundo da experiência,
+
+287
+00:35:44,000 --> 00:35:48,000
+vamos usar o discurso das pessoas comuns apenas com mais cuidado,
+
+288
+00:35:49,000 --> 00:35:54,000
+apenas com mais sistematização, apenas com uma consciência mais crítica.
+
+289
+00:35:54,000 --> 00:36:02,000
+O discurso cético é um discurso que de um lado é usado para neutralizar as filosofias dogmáticas,
+
+290
+00:36:03,000 --> 00:36:04,000
+diz Cestempírico em outras palavras,
+
+291
+00:36:05,000 --> 00:36:08,000
+de outro lado é um discurso que é usado para organizar a vida cotidiana,
+
+292
+00:36:09,000 --> 00:36:12,000
+diz ele também com outras palavras.
+
+293
+00:36:13,000 --> 00:36:19,000
+Mas como nós, céticos, entendemos que não temos acesso à verdade e à realidade,
+
+294
+00:36:19,000 --> 00:36:24,000
+tudo o que eu digo, eu não posso pretender que seja a verdade.
+
+295
+00:36:25,000 --> 00:36:28,000
+E quando eu falo como cético, eu não posso fazer outra coisa,
+
+296
+00:36:29,000 --> 00:36:32,000
+senão estar contando àqueles que estão me ouvindo,
+
+297
+00:36:33,000 --> 00:36:36,000
+estar relatando uma experiência que eu estou tendo.
+
+298
+00:36:37,000 --> 00:36:41,000
+Mesmo quando eu digo o ceticismo, desistam daquilo.
+
+299
+00:36:42,000 --> 00:36:47,000
+Eu estou relatando uma postura pessoal, uma experiência pessoal a respeito desse tema.
+
+300
+00:36:47,000 --> 00:36:50,000
+Nós nunca podemos daí fugir.
+
+301
+00:36:51,000 --> 00:36:58,000
+O cético, sempre que fala, está usando necessariamente a linguagem de um estilo que eu diria confessional,
+
+302
+00:36:59,000 --> 00:37:04,000
+isto é, o cético nunca pretende estar dizendo a verdade a ninguém,
+
+303
+00:37:05,000 --> 00:37:06,000
+porque ele não sabe nem o que é isso.
+
+304
+00:37:07,000 --> 00:37:10,000
+O que ele pretende é estar contando uma experiência,
+
+305
+00:37:10,000 --> 00:37:17,000
+uma experiência que talvez seja útil aos outros ouvir dela o relato,
+
+306
+00:37:18,000 --> 00:37:25,000
+uma experiência que poderá eventualmente ajudar os outros a refazer uma experiência semelhante.
+
+307
+00:37:26,000 --> 00:37:31,000
+Se o cético se preocupa, diz este empírico, em contar a sua experiência,
+
+308
+00:37:32,000 --> 00:37:38,000
+é porque ele gosta do ser humano, ele acha que o dogmatismo,
+
+309
+00:37:38,000 --> 00:37:42,000
+a filosofia especulativa, digamos assim,
+
+310
+00:37:43,000 --> 00:37:46,000
+ou a metafísica, se vocês quiserem, no sentido especulativo da expressão,
+
+311
+00:37:47,000 --> 00:37:50,000
+é uma doença, é uma distorção do discurso.
+
+312
+00:37:51,000 --> 00:37:53,000
+Não que o cético possa mostrar isso, ele não pode.
+
+313
+00:37:54,000 --> 00:37:57,000
+Não que ele possa provar isso, ele afirma que não é capaz de provar.
+
+314
+00:37:58,000 --> 00:38:01,000
+Mas o que ele afirma também é que no momento que ele fez a crítica
+
+315
+00:38:02,000 --> 00:38:04,000
+do processo dogmático de pensamento,
+
+316
+00:38:04,000 --> 00:38:10,000
+em que ele está, portanto, privado da possibilidade de recorrer a um discurso em estilo dogmático,
+
+317
+00:38:11,000 --> 00:38:13,000
+ele não tem outra coisa a fazer,
+
+318
+00:38:14,000 --> 00:38:18,000
+senão viver no mundo da experiência,
+
+319
+00:38:19,000 --> 00:38:23,000
+relatar a experiência, contar essa experiência,
+
+320
+00:38:24,000 --> 00:38:28,000
+contá-la, inclusive, como forma de um cientista empírico,
+
+321
+00:38:29,000 --> 00:38:31,000
+oferecê-la aos outros.
+
+322
+00:38:32,000 --> 00:38:34,000
+Quando o cético usa a linguagem,
+
+323
+00:38:35,000 --> 00:38:39,000
+ele pede que atentemos no fato de que essa linguagem não é sacrosanta.
+
+324
+00:38:40,000 --> 00:38:44,000
+As palavras são instrumentos que nós, seres humanos, criamos para o nosso serviço.
+
+325
+00:38:45,000 --> 00:38:49,000
+Não temos por que pretender que elas tenham uma espécie de adequação natural
+
+326
+00:38:50,000 --> 00:38:51,000
+a exprimir a verdade das coisas,
+
+327
+00:38:52,000 --> 00:38:54,000
+ou que elas possam ser postas em correspondência com o real,
+
+328
+00:38:55,000 --> 00:38:56,000
+para dizer como o real é.
+
+329
+00:38:56,000 --> 00:39:00,000
+E, portanto, se certas expressões de que usamos
+
+330
+00:39:01,000 --> 00:39:03,000
+aparecem aos outros como problemáticas,
+
+331
+00:39:04,000 --> 00:39:06,000
+tenhamos o bom senso de alterá-las, de mudá-las,
+
+332
+00:39:07,000 --> 00:39:09,000
+de explicar o que queremos dizer com outras palavras.
+
+333
+00:39:10,000 --> 00:39:15,000
+Não há palavras que precisem ser empregadas para dizer tais e tais coisas.
+
+334
+00:39:16,000 --> 00:39:18,000
+Palavra é instrumento.
+
+335
+00:39:19,000 --> 00:39:22,000
+É natural que, com essa postura,
+
+336
+00:39:22,000 --> 00:39:24,000
+o cético,
+
+337
+00:39:26,000 --> 00:39:29,000
+ainda que não possa demonstrar, eu repito,
+
+338
+00:39:30,000 --> 00:39:33,000
+a nenhum momento a falsidade da filosofia especulativa,
+
+339
+00:39:34,000 --> 00:39:36,000
+ele não tem como recorrer a ela.
+
+340
+00:39:37,000 --> 00:39:39,000
+E, não tendo como recorrer a ela,
+
+341
+00:39:40,000 --> 00:39:43,000
+e tendo necessariamente de limitar-se ao mundo da experiência
+
+342
+00:39:44,000 --> 00:39:45,000
+em que estamos confinados,
+
+343
+00:39:46,000 --> 00:39:48,000
+ele não pode impedir-se,
+
+344
+00:39:49,000 --> 00:39:51,000
+ele não dê ver
+
+345
+00:39:53,000 --> 00:39:55,000
+as propostas filosóficas especulativas,
+
+346
+00:39:56,000 --> 00:39:57,000
+usando a linguagem do sexto empírico,
+
+347
+00:39:58,000 --> 00:39:59,000
+a não ser como mitos,
+
+348
+00:40:00,000 --> 00:40:02,000
+crenças míticas,
+
+349
+00:40:03,000 --> 00:40:07,000
+forjadas pela imaginação engenhosa dos dogmáticos,
+
+350
+00:40:08,000 --> 00:40:09,000
+ídolos,
+
+351
+00:40:11,000 --> 00:40:12,000
+simulacros,
+
+352
+00:40:13,000 --> 00:40:14,000
+produções mágicas,
+
+353
+00:40:15,000 --> 00:40:16,000
+produções de sonhos,
+
+354
+00:40:16,000 --> 00:40:19,000
+que nos apontam o caminho para outros espaços.
+
+355
+00:40:28,000 --> 00:40:29,000
+Ora,
+
+356
+00:40:30,000 --> 00:40:31,000
+eu me aproximo do fim,
+
+357
+00:40:33,000 --> 00:40:34,000
+falta um minuto,
+
+358
+00:40:35,000 --> 00:40:37,000
+eu vou usar mais três ou quatro.
+
+359
+00:40:39,000 --> 00:40:42,000
+Eu acho que é possível entender, a partir disso,
+
+360
+00:40:43,000 --> 00:40:44,000
+como o cético,
+
+361
+00:40:44,000 --> 00:40:45,000
+como o cético
+
+362
+00:40:46,000 --> 00:40:47,000
+pode, ao mesmo tempo,
+
+363
+00:40:48,000 --> 00:40:50,000
+estar próximo e distante do empirismo.
+
+364
+00:40:51,000 --> 00:40:52,000
+Ele não pode aceitar,
+
+365
+00:40:53,000 --> 00:40:55,000
+jamais aceitou o empirismo dogmático,
+
+366
+00:40:56,000 --> 00:40:58,000
+mas ele pode dizer
+
+367
+00:40:59,000 --> 00:41:02,000
+que quando a razão dogmática foi posta em xeque,
+
+368
+00:41:03,000 --> 00:41:05,000
+ele não tem outra coisa senão a experiência,
+
+369
+00:41:06,000 --> 00:41:07,000
+senão lidar com a experiência,
+
+370
+00:41:08,000 --> 00:41:09,000
+organizar a experiência,
+
+371
+00:41:11,000 --> 00:41:12,000
+fazer apologia
+
+372
+00:41:12,000 --> 00:41:13,000
+dos conhecimentos
+
+373
+00:41:14,000 --> 00:41:15,000
+empíricos,
+
+374
+00:41:17,000 --> 00:41:18,000
+isto é,
+
+375
+00:41:19,000 --> 00:41:20,000
+há uma espécie de empirismo
+
+376
+00:41:21,000 --> 00:41:23,000
+necessariamente decorrente
+
+377
+00:41:24,000 --> 00:41:26,000
+da postura antidogmática do cético.
+
+378
+00:41:27,000 --> 00:41:28,000
+Mas é o empirismo sem dogmas,
+
+379
+00:41:29,000 --> 00:41:31,000
+não é o empirismo da escola dogmática,
+
+380
+00:41:32,000 --> 00:41:33,000
+é o empirista,
+
+381
+00:41:34,000 --> 00:41:35,000
+que dirá
+
+382
+00:41:36,000 --> 00:41:37,000
+a filosofia especulativa
+
+383
+00:41:38,000 --> 00:41:39,000
+é, obviamente, falsa,
+
+384
+00:41:39,000 --> 00:41:40,000
+todo o conhecimento
+
+385
+00:41:41,000 --> 00:41:42,000
+vem necessariamente da experiência,
+
+386
+00:41:43,000 --> 00:41:44,000
+você dirá outra coisa.
+
+387
+00:41:45,000 --> 00:41:47,000
+Não tendo como conhecer as verdades
+
+388
+00:41:48,000 --> 00:41:50,000
+que proclama a razão especulativa,
+
+389
+00:41:51,000 --> 00:41:52,000
+eu não tenho outra coisa a fazer
+
+390
+00:41:53,000 --> 00:41:54,000
+senão utilizar a experiência
+
+391
+00:41:55,000 --> 00:41:56,000
+e basear-me nela e, a partir dela,
+
+392
+00:41:57,000 --> 00:41:58,000
+organizar a minha vida
+
+393
+00:41:59,000 --> 00:42:00,000
+e o meu
+
+394
+00:42:01,000 --> 00:42:02,000
+com aspas ou sem aspas
+
+395
+00:42:03,000 --> 00:42:04,000
+conhecimento.
+
+396
+00:42:05,000 --> 00:42:06,000
+E, assim,
+
+397
+00:42:07,000 --> 00:42:08,000
+é, assim,
+
+398
+00:42:09,000 --> 00:42:11,000
+perfeitamente possível entender
+
+399
+00:42:12,000 --> 00:42:14,000
+a proximidade histórica
+
+400
+00:42:15,000 --> 00:42:16,000
+e, ao mesmo tempo,
+
+401
+00:42:18,000 --> 00:42:20,000
+o posicionamento crítico
+
+402
+00:42:21,000 --> 00:42:22,000
+da filosofia cética antiga
+
+403
+00:42:23,000 --> 00:42:24,000
+em relação ao empirismo.
+
+404
+00:42:25,000 --> 00:42:26,000
+O que ocorreu, médico,
+
+405
+00:42:27,000 --> 00:42:28,000
+o que ocorreu
+
+406
+00:42:29,000 --> 00:42:30,000
+foi que os filósofos pirrônicos,
+
+407
+00:42:31,000 --> 00:42:33,000
+de um lado, tinham uma tradição
+
+408
+00:42:34,000 --> 00:42:35,000
+que vinha de Pirro
+
+409
+00:42:36,000 --> 00:42:37,000
+da Nova Academia de Platão,
+
+410
+00:42:38,000 --> 00:42:40,000
+uma tradição que fazia,
+
+411
+00:42:41,000 --> 00:42:43,000
+que insistia no caráter do fenômeno,
+
+412
+00:42:44,000 --> 00:42:45,000
+daquilo que aparece,
+
+413
+00:42:46,000 --> 00:42:48,000
+que criticava as doutrinas dogmáticas.
+
+414
+00:42:50,000 --> 00:42:51,000
+Uma tradição de, vamos dizer,
+
+415
+00:42:52,000 --> 00:42:53,000
+de um ceticismo negativo,
+
+416
+00:42:54,000 --> 00:42:55,000
+não dogmático negativo,
+
+417
+00:42:56,000 --> 00:42:57,000
+mas negativo no sentido que era
+
+418
+00:42:58,000 --> 00:42:59,000
+apenas uma denúncia do dogmatismo.
+
+419
+00:43:00,000 --> 00:43:01,000
+Mas, de outro lado,
+
+420
+00:43:02,000 --> 00:43:04,000
+havia tradição do empirismo médico.
+
+421
+00:43:05,000 --> 00:43:06,000
+A escola, vamos chamar assim,
+
+422
+00:43:07,000 --> 00:43:08,000
+sextiana de filosofia,
+
+423
+00:43:10,000 --> 00:43:11,000
+juntou essas duas tradições,
+
+424
+00:43:12,000 --> 00:43:13,000
+associou
+
+425
+00:43:14,000 --> 00:43:15,000
+uma postura empirista
+
+426
+00:43:16,000 --> 00:43:17,000
+em matéria de conhecimento
+
+427
+00:43:18,000 --> 00:43:19,000
+e de ciência
+
+428
+00:43:20,000 --> 00:43:21,000
+e uma postura antidogmática.
+
+429
+00:43:22,000 --> 00:43:23,000
+E criou-se, assim,
+
+430
+00:43:24,000 --> 00:43:25,000
+o pirronismo
+
+431
+00:43:26,000 --> 00:43:27,000
+e, ao mesmo tempo,
+
+432
+00:43:29,000 --> 00:43:30,000
+surge, pela primeira vez, eu diria,
+
+433
+00:43:31,000 --> 00:43:32,000
+na história do pensamento filosófico,
+
+434
+00:43:32,000 --> 00:43:33,000
+um empirismo.
+
+435
+00:43:34,000 --> 00:43:35,000
+Um empirismo
+
+436
+00:43:36,000 --> 00:43:38,000
+não apenas como teoria do conhecimento médico,
+
+437
+00:43:39,000 --> 00:43:40,000
+mas como filosofia
+
+438
+00:43:41,000 --> 00:43:42,000
+global, sistemática,
+
+439
+00:43:43,000 --> 00:43:44,000
+mas um empirismo que nasceu
+
+440
+00:43:45,000 --> 00:43:47,000
+despido de qualquer dogma.
+
+441
+00:43:50,000 --> 00:43:51,000
+É preciso dizer,
+
+442
+00:43:52,000 --> 00:43:53,000
+e eu termino com essas palavras,
+
+443
+00:43:54,000 --> 00:43:55,000
+que o que eu lhes apresentei aqui
+
+444
+00:43:56,000 --> 00:43:58,000
+é uma hipótese
+
+445
+00:43:59,000 --> 00:44:00,000
+de interpretação
+
+446
+00:44:01,000 --> 00:44:03,000
+da filosofia pirrônica.
+
+447
+00:44:04,000 --> 00:44:05,000
+O caminho para ela
+
+448
+00:44:06,000 --> 00:44:07,000
+foi aberto pelos estudos
+
+449
+00:44:08,000 --> 00:44:09,000
+de Michael Freire,
+
+450
+00:44:10,000 --> 00:44:11,000
+um estudioso
+
+451
+00:44:15,000 --> 00:44:16,000
+da filosofia grega,
+
+452
+00:44:17,000 --> 00:44:18,000
+do ceticismo, em particular,
+
+453
+00:44:19,000 --> 00:44:20,000
+e que tem brilhantes artigos
+
+454
+00:44:21,000 --> 00:44:22,000
+sobre a medicina grega.
+
+455
+00:44:23,000 --> 00:44:24,000
+As informações que eu aqui utilizei
+
+456
+00:44:25,000 --> 00:44:26,000
+sobre a medicina, propriamente,
+
+457
+00:44:27,000 --> 00:44:28,000
+eu as tirei
+
+458
+00:44:28,000 --> 00:44:29,000
+dos artigos de Michael Freire.
+
+459
+00:44:30,000 --> 00:44:31,000
+E Michael Freire
+
+460
+00:44:32,000 --> 00:44:34,000
+insistiu bastante
+
+461
+00:44:35,000 --> 00:44:36,000
+nessa
+
+462
+00:44:38,000 --> 00:44:40,000
+associação estreita
+
+463
+00:44:41,000 --> 00:44:43,000
+entre o ceticismo grego
+
+464
+00:44:44,000 --> 00:44:46,000
+pirrônico e a medicina.
+
+465
+00:44:47,000 --> 00:44:48,000
+De qualquer maneira, o que eu lhes disse aqui
+
+466
+00:44:49,000 --> 00:44:50,000
+não é a verdade.
+
+467
+00:44:51,000 --> 00:44:52,000
+É uma hipótese que me aparece
+
+468
+00:44:53,000 --> 00:44:54,000
+como defensável.
+
+469
+00:44:55,000 --> 00:44:56,000
+Eu não poderia dizer outra coisa
+
+470
+00:44:56,000 --> 00:44:57,000
+Muito obrigado.
+
+471
+00:45:26,000 --> 00:45:29,000
+Legendas pela comunidade Amara.org
+
+
